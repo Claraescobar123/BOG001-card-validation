@@ -29,9 +29,9 @@ Recibimos el feedback de varias compañeras, las cuales nos dijeron que les gust
 
 ## Prototipo de alta fidelidad
 
-<img src= "imagenes/Prototipo_alta_fidelidad1.png" width = "500"/>
+<img src= "https://github.com/Claraescobar123/BOG001-card-validation/blob/blarteagar-patch-1/src/imagenes/Prototipo_alta_fidelidad1.png" width = "500"/>
 
-<img src= "imagenes/Prototipo_alta_fidelidad2.png" width = "500"/>
+<img src= "https://github.com/Claraescobar123/BOG001-card-validation/blob/blarteagar-patch-1/src/imagenes/Prototipo_alta_fidelidad2.png" width = "500"/>
 
 
 
