@@ -21,7 +21,7 @@ Estamos poniendo al alcance de la gente, la posibilidad de tener contacto con el
 
 <img src= "https://github.com/Claraescobar123/BOG001-card-validation/blob/blarteagar-patch-1/src/imagenes/Prototipo_baja_fidelidad1.jpeg" width = "500"/>
 
-<img src= "imagenes/Prototipo_baja_fidelidad2.jpeg" width = "500"/>
+<img src= "https://github.com/Claraescobar123/BOG001-card-validation/blob/blarteagar-patch-1/src/imagenes/Prototipo_baja_fidelidad2.jpeg" width = "500"/>
 
 ## Resumen feedback
 
