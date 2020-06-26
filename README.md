@@ -19,9 +19,9 @@ Estamos poniendo al alcance de la gente, la posibilidad de tener contacto con el
 
 ## Prototipo de baja fidelidad
 
-<img src= "imagenes/Prototipo_baja_fidelidad1.jpeg" width = "500">
+<img src= "imagenes/Prototipo_baja_fidelidad1.jpeg" width = "500"/>
 
-<img src= "imagenes/Prototipo_baja_fidelidad2.jpeg" width = "500">
+<img src= "imagenes/Prototipo_baja_fidelidad2.jpeg" width = "500"/>
 
 ## Resumen feedback
 
@@ -29,9 +29,9 @@ Recibimos el feedback de varias compañeras, las cuales nos dijeron que les gust
 
 ## Prototipo de alta fidelidad
 
-<img src= "imagenes/Prototipo_alta_fidelidad1.png" width = "500">
+<img src= "imagenes/Prototipo_alta_fidelidad1.png" width = "500"/>
 
-<img src= "imagenes/Prototipo_alta_fidelidad2.png" width = "500">
+<img src= "imagenes/Prototipo_alta_fidelidad2.png" width = "500"/>
 
 
 
