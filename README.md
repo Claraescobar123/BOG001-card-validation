@@ -37,30 +37,30 @@ Recibimos el feedback de varias compañeras, las cuales nos dijeron que les gust
 
 ### UX
 
-* [ ] Diseñar la aplicación pensando y entendiendo al usuario
-* [ ] Crear prototipos para obtener feedback e iterar
+* [x] Diseñar la aplicación pensando y entendiendo al usuario
+* [x] Crear prototipos para obtener feedback e iterar
 * [ ] Aplicar los principios de diseño visual
 
 ### HTML y CSS
 
-* [ ] Uso correcto de HTML semántico
-* [ ] Uso de selectores de CSS
+* [x] Uso correcto de HTML semántico
+* [x] Uso de selectores de CSS
 * [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
 
-* [ ] Uso de selectores de nodos del DOM
-* [ ] Manejo de eventos del DOM
-* [ ] Manipulación dinámica del DOM
+* [x] Uso de selectores de nodos del DOM
+* [x] Manejo de eventos del DOM
+* [x] Manipulación dinámica del DOM
 
 ### Javascript
 
-* [ ] Manipulación de strings
-* [ ] Uso de condicionales
-* [ ] Uso de bucles
-* [ ] Uso de funciones
+* [x] Manipulación de strings
+* [x] Uso de condicionales
+* [x] Uso de bucles
+* [x] Uso de funciones
 * [ ] Datos atómicos y estructurados
-* [ ] Utilizar ES Modules (`import` | `export`).
+* [x] Utilizar ES Modules (`import` | `export`).
 
 ### Testing
 
@@ -73,8 +73,8 @@ Recibimos el feedback de varias compañeras, las cuales nos dijeron que les gust
 
 ### Buenas prácticas de desarrollo
 
-* [ ] Organizar y dividir el código en módulos (Modularización).
-* [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+* [x] Organizar y dividir el código en módulos (Modularización).
+* [x] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 * [ ] Uso de linter para seguir buenas prácticas (ESLINT).
 
 
