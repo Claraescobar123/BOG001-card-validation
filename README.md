@@ -39,7 +39,7 @@ Recibimos el feedback de varias compañeras, las cuales nos dijeron que les gust
 
 * [x] Diseñar la aplicación pensando y entendiendo al usuario
 * [x] Crear prototipos para obtener feedback e iterar
-* [ ] Aplicar los principios de diseño visual
+* [x] Aplicar los principios de diseño visual
 
 ### HTML y CSS
 
