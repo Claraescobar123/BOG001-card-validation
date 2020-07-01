@@ -1,34 +1,32 @@
 import validator from './validator.js';
 
-const botonComprar1 = document.getElementById ("comprar1");
+const botonComprar1 = document.getElementById ('comprar1');
 botonComprar1.addEventListener("click",mostrar);
 
-const botonComprar2 = document.getElementById ("comprar2");
+const botonComprar2 = document.getElementById ('comprar2');
 botonComprar2.addEventListener("click",mostrar);
 
 //Vamos a ejecutar una función que se va a llamar mostrar y me va a capturar lo que tenemos como Mostrarform en el html, y me lo va a mostrar con block
 function mostrar(){
-    document.getElementById('catalog').style.display="none";
-    document.getElementById('captura').style.display="block";
-    }
-    const botonValidar = document.getElementById ("tarjeta");
-    botonValidar.addEventListener("click",varImportante);
+    document.getElementById('catalogo').style.display="none";
+    document.getElementById('formulario').style.display="block";
+ }
+
+const botonValidar = document.getElementById ("tarjeta");
+botonValidar.addEventListener("click",varImportante);
+
+function varImportante(){
+    document.getElementById('formulario').style.display="none";
+    document.getElementById('resultado').style.display="block";
     
-function varImportante () {
-
-      document.getElementById("captura").style.display="none";
-      document.getElementById("final").style.display="block";
-      let tc = document.getElementById ("tarjetacredito").value;
-      let validation = validator.isValid(tc);
-      let mask = validator.maskify(tc);
-
+    let tc = document.getElementById ('tarjetacredito').value;
+    let validation = validator.isValid(tc);// capturas el valor en el metodo is valid
+    let mask = validator.maskify(tc);// capturas el valor en el metodo maskify
       if (validation === true){
-        document.getElementById("resultado").innerHTML = "Tu tarjeta de crédito No: " + mask + " es válida"; 
+          document.getElementById('mensaje').innerHTML = "Tu tarjeta de crédito No: " + mask + " es válida";
         } 
-    
       else {
-        document.getElementById("resultado").innerHTML = "Tu tarjeta de crédito No: " + mask + " es inválida"; 
+          document.getElementById('mensaje').innerHTML = "Tu tarjeta de crédito No: " + mask + " NO es válida";
         }
-      console.log(validation);
-      console.log(mask);
+
     }
